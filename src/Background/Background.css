@@ -1,0 +1,44 @@
+.background{
+    
+    background-color: black;
+    height: 1000px;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.header{
+    color: white;
+    padding-left: 200px;
+    width: 1000px;
+   
+    
+    
+}
+
+.Title{
+    padding-top: 40px;
+    font-size: 1.4rem;
+    padding-left: 40px;
+    font-weight: lighter;
+}
+
+.title{
+    align-self: center;
+    font-size: 1.4rem;
+    padding-left: 100px;
+    font-weight: lighter;
+    top: 0;
+}
+
+.button{
+    width: 416px;
+    height: 60px;
+    top: 979px;
+    left: 500px;
+
+}
+
+.view{
+    left: 100px;
+}
